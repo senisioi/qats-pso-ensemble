@@ -1,4 +1,4 @@
 # qats-pso-ensemble
 A Particle Swarm Optimized Ensemble Classifier for Quality Assessment of Text Simplification
 
-Coming soon...
+Due to licensing issues, the code can't be released.
